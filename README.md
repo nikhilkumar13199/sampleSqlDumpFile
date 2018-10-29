@@ -8,4 +8,5 @@ step 2- move this file to your home directory
 step 3- open mysql monitor, type command '''use <database you want to use>;'''
 step 4- enter command '''source djangotestdb.sql;'''
 It will take some time.
-  If this doesn't work refer to stack overlow articles on importing .sql file to databases in mysq.
+  If this doesn't work refer to stack overlow articles on importing .sql file to databases in mysql
+  This is a sample .sql file. Contains no data of any value.
